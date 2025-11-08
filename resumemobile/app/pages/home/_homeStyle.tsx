@@ -16,9 +16,7 @@ export const homeStyles = StyleSheet.create({
         textAlign: 'center',
         marginBottom: 10,
     },
-    navBar: {
-        width: Dimensions.get('window').width,
-    },
+
     text: {
         color: Colors.primaryText,
         fontSize: 16,

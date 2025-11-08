@@ -7,10 +7,10 @@ import HomeTabs from "./homeTabs";
 export default function Home() {
     return(
         <View style={globalStyles.container}>
-            <View style={homeStyles.navBar}> 
-                <Text style={homeStyles.title}>Ítalo Verçoza</Text>
+            <View>
+                <Text style={homeStyles.title}>My resume</Text>
                 <Text style={homeStyles.description}>Desenvolvedor e Analista Jr Windows Networking</Text>
-                <HomeTabs/>   
+                 <HomeTabs/>   
             </View>
 
         </View>

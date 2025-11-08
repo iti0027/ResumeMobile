@@ -6,6 +6,7 @@ import Academics from "../academics/index";
 import Professional from "../professional/index";
 import Project from "../projects/index";
 
+
 const Tab = createBottomTabNavigator();
 
 export default function HomeTabs() {

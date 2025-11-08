@@ -6,6 +6,6 @@ import { professionalStyle } from "./_professionalStyle"
 
 export default function Professional() {
     return(
-        <Text>Ítalo Verçoza</Text>
+        <Text>Professional</Text>
     );
 }

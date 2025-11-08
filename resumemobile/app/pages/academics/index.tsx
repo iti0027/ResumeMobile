@@ -6,6 +6,6 @@ import { academicsStyle } from "./_academicsStyle"
 
 export default function Academics() {
     return(
-        <Text>Ítalo Verçoza</Text>
+        <Text>Academics</Text>
     );
 }

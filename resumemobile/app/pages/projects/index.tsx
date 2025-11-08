@@ -6,6 +6,6 @@ import { projectStyle } from "./_projectStyle"
 
 export default function Project() {
     return(
-        <Text>Ítalo Verçoza</Text>
+        <Text>Projects</Text>
     );
 }
