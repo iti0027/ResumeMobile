@@ -27,27 +27,27 @@ export const aboutMeStyle = StyleSheet.create({
         height: 150,
         borderRadius: 100,
         borderWidth: 2,
-        borderColor: '#ccc',
+        borderColor: '#575656ab',
     },
     safiraImage:{
         width: 100,
         height: 150,
         borderRadius: 100,
         borderWidth: 2,
-        borderColor: '#ccc',
+        borderColor: '#575656ab',
     },
     perolaImage:{
         width: 100,
         height: 150,
         borderRadius: 100,
         borderWidth: 2,
-        borderColor: '#ccc',
+        borderColor: '#575656ab',
     },
     agathaImage:{
         width: 100,
         height: 150,
         borderRadius: 100,
         borderWidth: 2,
-        borderColor: '#ccc',
+        borderColor: '#575656ab',
     }
 });     
