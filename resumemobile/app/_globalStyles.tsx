@@ -7,6 +7,10 @@ export const globalStyles = StyleSheet.create({
         color: Colors.primaryText,
         fontSize: 16,
     },
+    scroll:{
+        flex: 1,
+        backgroundColor: Colors.background,
+    },
     container: {
         flex: 1,
         backgroundColor: Colors.background,
