@@ -95,7 +95,7 @@ export default function AboutMe() {
                     </TouchableOpacity>
                     {showAgatha && (
                         <Text style={aboutMeStyle.text}>
-                            Petinha manhosa <Text style={aboutMeStyle.name}>Agatha</Text>, essa é a mais brava ksksk
+                            Petinha manhosa e mais braba da casa <Text style={aboutMeStyle.name}>Agatha</Text>
                         </Text>
                     )}
                 </View>
