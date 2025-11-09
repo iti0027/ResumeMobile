@@ -27,6 +27,7 @@ export const professionalStyle = StyleSheet.create({
         fontSize: 16,
         color: Colors.primaryText,
         marginLeft: 4,
+        textAlign: 'justify',
     },
     subtext:{
         fontSize: 14,
