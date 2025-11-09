@@ -17,5 +17,8 @@ export const globalStyles = StyleSheet.create({
         padding: 20,
         justifyContent: 'center',
         alignItems: 'center',
+    },
+    scrollContainer:{
+        padding: 20,
     }
 });

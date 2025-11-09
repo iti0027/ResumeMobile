@@ -1,6 +1,5 @@
+import React from "react";
 import { Text, View } from "react-native";
-
-
 import { globalStyles } from "../../_globalStyles";
 import { academicsStyle } from "./_academicsStyle"
 import { ScrollView } from "react-native";
